@@ -1,3 +1,24 @@
+# my-handin-folder-week-8-react
+
+##This is my assignment for flow_3 week 2. 
+
+**Assignment for 28/10/19**
+1. i've only completed the green assignments. 
+
+
+**Assignment for 29/10/19**
+1.ive done most of this day assignment. most of the green ive done and some of the yellow and red as well
+
+**Assignment for 30/10/19**
+1. ive done all of the assignments for this day. 
+
+**Assignment for 31/0/19
+1. im missing this day because im sick
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
